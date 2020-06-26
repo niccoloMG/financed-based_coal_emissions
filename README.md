@@ -1,6 +1,5 @@
 # Finance-based accounting of coal emissions
 ## Niccolò Manych, Jan Christoph Steckel, Michael Jakob
-Berlin, 26 June 2020
 
 * Mercator Research Institute on Global Commons and Climate Change, Torgauer Straße 12–15, 10829 Berlin, Germany
 * Technische Universität Berlin, Department Economics of Climate Change, Straße des 17. Juni 145, 10623 Berlin, Germany
